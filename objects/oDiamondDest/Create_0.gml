@@ -1,8 +1,11 @@
-/// @description Insert description here
+/// @description Destination init
 
 image_alpha = 0.3;
-toleranceX = ceil(sprite_width / 2);
-toleranceY = ceil(sprite_height / 2);
-toleranceAngle = 90;
+toleranceRadius = ceil(sprite_width / 2);
+toleranceAngle = 45;
 
 flag_fits = false;
+
+global.DiamondDest_xpos = x;
+global.DiamondDest_ypos = y;
+global.DiamondDest_angle = image_angle;

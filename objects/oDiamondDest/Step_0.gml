@@ -1,18 +1,19 @@
-/// @description Insert description here
+/// @description Destination check
 
-dest_xpos = x;
-dest_ypos = y;
-dest_angle = image_angle;
+global.DiamondDest_xpos = x;
+global.DiamondDest_ypos = y;
+global.DiamondDest_angle = image_angle;
 
-xdif = abs(dest_xpos - global.DiamondX);
-ydif = abs(dest_ypos - global.DiamondY);
-angdif = abs(angle_difference(dest_angle, global.DiamondAngle));
+xdif = abs(global.DiamondDest_xpos - global.DiamondX);
+ydif = abs(global.DiamondDest_ypos - global.DiamondY);
+angdif = abs(angle_difference(global.DiamondDest_angle, global.DiamondAngle));
 
-if (xdif < toleranceX && ydif < toleranceY && angdif < toleranceAngle) {
-	
+if (xdif < toleranceRadius && ydif < toleranceRadius && angdif < toleranceAngle) {
+	//part fits the destination
 	if (!flag_fits) {
 		audio_play_sound(impactPlate_light_000, 50, false);
 		flag_fits = true;
+		global.DiamondFits = true;
 	}
 }
 else {
