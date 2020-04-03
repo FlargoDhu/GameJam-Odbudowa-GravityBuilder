@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1101bbf4-b70e-4626-83f4-fe39d10e18a0",
+            "Value": {
+                "id": "6a7b4af5-f163-48b1-88c7-57adb6df879f",
+                "resourcePath": "objects\\oWoodenTile\\oWoodenTile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a0928ce-721e-4df5-93b4-299fb04e2855",
             "Value": {
                 "id": "7e040ee1-dcb0-47f5-94b1-f83c3d73a79f",
@@ -156,6 +164,14 @@
                 "id": "2a33bb8c-5e49-400c-8f00-99d41ff84e75",
                 "resourcePath": "views\\5a46c431-536b-4c17-bf21-dc0bd9fba7ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a57a70d-e859-42f5-bc00-a5ea85a53fb3",
+            "Value": {
+                "id": "cdea2718-2241-4153-a7dc-c0c7e169d516",
+                "resourcePath": "sprites\\platformPack_tile047\\platformPack_tile047.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
