@@ -1,11 +1,11 @@
 {
-    "id": "7f71d176-fa29-4c4d-9f1e-f4eaa23c15f0",
+    "id": "cb9ee7d6-1cb3-4782-b609-e26fd80e0877",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "7f71d176-fa29-4c4d-9f1e-f4eaa23c15f0",
+    "name": "cb9ee7d6-1cb3-4782-b609-e26fd80e0877",
     "children": [
-        "43dc87f9-58c1-4912-9f07-ebb9351d1c73",
-        "c86c19a3-90d6-4b18-a7fd-2ddfd6f8ce81"
+        "c86c19a3-90d6-4b18-a7fd-2ddfd6f8ce81",
+        "43dc87f9-58c1-4912-9f07-ebb9351d1c73"
     ],
     "filterType": "GMObject",
     "folderName": "Cameras",

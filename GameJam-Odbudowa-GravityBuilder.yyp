@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "5224bde2-65ed-4b53-8b89-4335d3e101c0",
+            "Value": {
+                "id": "29e57a7d-cdbb-4092-8247-48fe3d5931a3",
+                "resourcePath": "objects\\oDiamondDest\\oDiamondDest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5237d01a-d54a-4c95-96a4-9727a3c19ffc",
             "Value": {
                 "id": "b02efc10-8575-4460-9122-59e652cc8140",
@@ -207,11 +215,27 @@
             }
         },
         {
+            "Key": "6fa110cf-c62e-486d-b21b-7e10fb4d2711",
+            "Value": {
+                "id": "449d1d72-66d7-46e5-bbcd-92086d7794a0",
+                "resourcePath": "views\\6fa110cf-c62e-486d-b21b-7e10fb4d2711.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "775812b7-1486-49e4-bc7b-11997f100509",
             "Value": {
                 "id": "2579072b-5e68-4d5a-a9e4-2f3f00ce73cf",
                 "resourcePath": "views\\775812b7-1486-49e4-bc7b-11997f100509.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7ad78caa-7a0c-48d1-8f12-81b8d9a3871d",
+            "Value": {
+                "id": "89739ee0-8aa2-4663-abe7-a8dce952efa1",
+                "resourcePath": "sprites\\boxBackground\\boxBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,14 +255,6 @@
             }
         },
         {
-            "Key": "7f71d176-fa29-4c4d-9f1e-f4eaa23c15f0",
-            "Value": {
-                "id": "b5c5281c-b96a-44d0-94a0-3090f319aa28",
-                "resourcePath": "views\\7f71d176-fa29-4c4d-9f1e-f4eaa23c15f0.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "8cd627af-9d4a-4749-99ba-49fe616c1199",
             "Value": {
                 "id": "be8da052-8fa2-459c-9e31-8543a6886d0e",
@@ -252,6 +268,14 @@
                 "id": "c77b8d6e-0e25-4c89-99a1-2a981ea9175c",
                 "resourcePath": "views\\8d1c00be-ebfc-42fb-adb8-c45d08a37347.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ee2fc30-1b8c-4dc1-9cad-8e1ea7af75d1",
+            "Value": {
+                "id": "5f895fae-efcf-4ba0-aae0-d9330d45a4e0",
+                "resourcePath": "sounds\\impactPlate_light_000\\impactPlate_light_000.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -356,6 +380,14 @@
                 "id": "3ec64c5e-895b-43d1-93f6-beaf08b375b7",
                 "resourcePath": "objects\\obj_DynamicParent\\obj_DynamicParent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb9ee7d6-1cb3-4782-b609-e26fd80e0877",
+            "Value": {
+                "id": "e57bd26d-42d7-49b4-adb7-157b9dcc66ba",
+                "resourcePath": "views\\cb9ee7d6-1cb3-4782-b609-e26fd80e0877.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
