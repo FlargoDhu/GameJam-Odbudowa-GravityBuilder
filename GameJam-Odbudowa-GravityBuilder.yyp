@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "36557b9b-eb52-4eef-916c-5f0d3fc21faa",
+            "Value": {
+                "id": "6b2a2c20-8f68-4f82-a48d-980bfbefd6d0",
+                "resourcePath": "objects\\DubgObject\\DubgObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ad456a2-0ddb-4df9-bb0e-e43c25c847b8",
             "Value": {
                 "id": "b26043db-58bb-4a5b-b6f1-716ff9baa557",
