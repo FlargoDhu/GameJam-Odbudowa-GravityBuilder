@@ -1,6 +1,6 @@
 /// @description Destination check
 
-global.DiamondDest_xpos = x;
+/*global.DiamondDest_xpos = x;
 global.DiamondDest_ypos = y;
 global.DiamondDest_angle = image_angle;
 
@@ -18,4 +18,6 @@ if (xdif < toleranceRadius && ydif < toleranceRadius && angdif < toleranceAngle)
 }
 else {
 	flag_fits = false;
-}
+}*/
+
+global.DiamondDest = updatePartDest(global.DiamondDest, x, y, image_angle, global.Diamond);

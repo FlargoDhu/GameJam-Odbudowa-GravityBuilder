@@ -1,0 +1,1 @@
+global.Key = createPart(x, y, image_angle);
