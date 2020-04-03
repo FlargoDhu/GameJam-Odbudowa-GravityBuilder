@@ -3,7 +3,7 @@
 
 var _total_force = 10;
 
-dir = point_direction(view_xport[0],view_yport[0], mouse_x, mouse_y);
+dir = point_direction(Player.x,Player.y, mouse_x, mouse_y);
 var _radian = dir;
 
 x = _total_force * cos(_radian);
