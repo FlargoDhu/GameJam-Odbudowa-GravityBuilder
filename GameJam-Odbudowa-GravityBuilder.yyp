@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "7f71d176-fa29-4c4d-9f1e-f4eaa23c15f0",
+            "Value": {
+                "id": "b5c5281c-b96a-44d0-94a0-3090f319aa28",
+                "resourcePath": "views\\7f71d176-fa29-4c4d-9f1e-f4eaa23c15f0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8cd627af-9d4a-4749-99ba-49fe616c1199",
             "Value": {
                 "id": "be8da052-8fa2-459c-9e31-8543a6886d0e",
@@ -332,6 +340,14 @@
                 "id": "dfcd0252-b52a-471e-a67f-a92ccff6a002",
                 "resourcePath": "views\\c810f2e6-019e-45bb-ad5a-1c3247c05eda.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c86c19a3-90d6-4b18-a7fd-2ddfd6f8ce81",
+            "Value": {
+                "id": "111263ae-08a7-4a24-8df7-dfb592a0993c",
+                "resourcePath": "objects\\oBoxCamera\\oBoxCamera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
