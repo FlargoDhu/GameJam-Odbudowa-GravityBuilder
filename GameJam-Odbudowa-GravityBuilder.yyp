@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0da1d96b-6d9c-4bdb-8c60-4dfaa00eac4a",
+            "Value": {
+                "id": "34d39c9d-3f8c-41a3-ab03-fd31bce8f3e8",
+                "resourcePath": "objects\\o_StickyTrap\\o_StickyTrap.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e374cb9-a863-472e-8a70-f54948c5ff8e",
             "Value": {
                 "id": "c6377914-0526-4afa-a932-09e083d3d5ea",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "7f3e6217-cdf0-453e-8d69-9edacc022664",
+            "Value": {
+                "id": "0c4b2553-1b5a-42eb-a167-d707c0a0c0fc",
+                "resourcePath": "objects\\o_Glue\\o_Glue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "82a4d72a-1a4f-4254-a10d-7030bee8192f",
             "Value": {
                 "id": "b67b44e8-daeb-44da-bacc-683f9dc14a21",
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "a8013e58-15d2-4e43-9528-71d0b03bebd5",
+            "Value": {
+                "id": "86093421-6186-4dfd-bf6d-577d10e29aaf",
+                "resourcePath": "scripts\\GravityDisabler\\GravityDisabler.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "b2f5a99c-388b-48ab-8dc9-5d7183f4d0f3",
@@ -459,6 +483,14 @@
             "Value": {
                 "id": "ddf9f1fb-7c6a-4b76-986e-43a90983e9d5",
                 "resourcePath": "sprites\\Transparent_Wall_Marker\\Transparent_Wall_Marker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b3c5e4fa-1447-40ac-96a7-e89d3e7a7e06",
+            "Value": {
+                "id": "7792f82e-44bd-488f-8ae6-3f05a759f036",
+                "resourcePath": "sprites\\Glue\\Glue.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -621,7 +653,8 @@
         "58b26e9a-8236-452a-a287-6876d361620e",
         "82a4d72a-1a4f-4254-a10d-7030bee8192f",
         "7917a640-484a-47c1-a6ea-bc24443976b8",
-        "052fd84c-7c01-4796-a028-694939f418b5"
+        "052fd84c-7c01-4796-a028-694939f418b5",
+        "a8013e58-15d2-4e43-9528-71d0b03bebd5"
     ],
     "tutorial": ""
 }

@@ -1,3 +1,8 @@
 /// @description Steps
-global.DirectionMove = "HAHA";
-phy_rotation = -global.CurrentGravityDirection + 270;
+
+if(gravity_enabled == false){
+	GravityDisabler();
+}
+else{
+	phy_rotation = -global.CurrentGravityDirection + 270;
+}
