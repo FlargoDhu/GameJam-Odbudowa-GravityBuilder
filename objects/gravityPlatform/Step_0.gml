@@ -16,4 +16,8 @@ if (1) {
 		phy_speed_x = -speedVal * cos(_radian);
 		phy_speed_y = -speedVal * -sin(_radian);
 	}
+	else {
+		phy_speed_x = 0;
+		phy_speed_y = 0;
+	}
 }
