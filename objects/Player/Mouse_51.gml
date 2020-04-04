@@ -7,26 +7,27 @@ Right = (global.CurrentGravityDirection + 90)%360;
 Left = (global.CurrentGravityDirection + 270)%360;
 global.debug_var1 = Move;
 
-if(Move > 315){
-	Move = 360-Move;
+/*if(Move > 315){
+	
 }
 if(Right > 315){
-	Right = 360 -Right;
+	
 }
 if(Left > 315){
-	Left = 360 -Left;
-}
+	
+}*/
 
-if(Right + 45 > Move && Right - 45 < Move){
+if((Right + 45 > Move && Right - 45 < Move)||(45 > Right && Move >= 325+Right)||(325 < Right && Move <= Right-325)){
+	global.debug_var1 = "right";
 	var _radian = degtorad(Right);
-
+	
 	x_force = _total_force * cos(_radian);
 	y_force = _total_force * -sin(_radian);
 
 	physics_apply_force(x,y,x_force,y_force)
 }
 
-if((Left + 45 > Move) && (Left - 45 < Move)){
+if((Left + 45 > Move) && (Left - 45 < Move)||(45 > Left && Move >= 325+Left)||(325 < Left && Move <= Left-325)){
 	global.debug_var1 = "left";
 	var _radian = degtorad(Left);
 
