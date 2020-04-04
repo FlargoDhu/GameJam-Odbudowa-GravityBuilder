@@ -3,8 +3,6 @@
 
 angleDiff = abs(angle_difference(image_angle, global.CurrentGravityDirection));
 
-speedVal = 1;
-
 var _radian = degtorad(image_angle);
 
 if(collision_rectangle(x, y, x+sprite_width, y+sprite_height, Player, false, true) == noone) {
