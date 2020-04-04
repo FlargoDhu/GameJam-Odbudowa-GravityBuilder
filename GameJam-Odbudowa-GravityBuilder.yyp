@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "38502254-f27e-4225-9bb6-5be57ecf8ed1",
+            "Value": {
+                "id": "cbdebfeb-296f-42d4-87d3-606169f2cdb7",
+                "resourcePath": "objects\\o_BoxPortal\\o_BoxPortal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ad456a2-0ddb-4df9-bb0e-e43c25c847b8",
             "Value": {
                 "id": "b26043db-58bb-4a5b-b6f1-716ff9baa557",
@@ -140,6 +148,14 @@
                 "id": "844d31b5-15aa-4e74-b242-9b00f2c9f066",
                 "resourcePath": "scripts\\getViewX\\getViewX.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "409c2a91-a9c8-4731-a2d1-e5434a14a7e8",
+            "Value": {
+                "id": "a48f04bc-a96a-442b-a289-f83dfd47141a",
+                "resourcePath": "objects\\o_ParentPart\\o_ParentPart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +332,14 @@
                 "id": "b67b44e8-daeb-44da-bacc-683f9dc14a21",
                 "resourcePath": "scripts\\createPart\\createPart.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8b7630d1-00c9-4c6e-8762-49c0e8489361",
+            "Value": {
+                "id": "fec08bf6-d9ea-4e84-8113-61f94720c820",
+                "resourcePath": "objects\\o_ParentDestination\\o_ParentDestination.yy",
+                "resourceType": "GMObject"
             }
         },
         {
