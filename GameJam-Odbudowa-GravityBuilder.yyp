@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "4e02b9e5-dba1-4150-8f5f-c8953867db35",
+            "Value": {
+                "id": "9b356962-8417-47e1-bb24-2dbcff1e54ce",
+                "resourcePath": "views\\4e02b9e5-dba1-4150-8f5f-c8953867db35.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5224bde2-65ed-4b53-8b89-4335d3e101c0",
             "Value": {
                 "id": "29e57a7d-cdbb-4092-8247-48fe3d5931a3",
@@ -195,6 +203,14 @@
             "Value": {
                 "id": "b02efc10-8575-4460-9122-59e652cc8140",
                 "resourcePath": "views\\5237d01a-d54a-4c95-96a4-9727a3c19ffc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "55f66b42-cc1b-4586-8ec1-eca9118aec23",
+            "Value": {
+                "id": "a1b1ebc7-4978-4fd2-adf4-8d57d27e536d",
+                "resourcePath": "views\\55f66b42-cc1b-4586-8ec1-eca9118aec23.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -367,11 +383,35 @@
             }
         },
         {
+            "Key": "9c7d602f-c763-40e9-8d63-93fe62cb58a4",
+            "Value": {
+                "id": "ea8634d6-d038-4b38-8158-d64404b03042",
+                "resourcePath": "objects\\o_ghost_moth\\o_ghost_moth.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d93d349-f72b-41e2-8001-9e230e7f2177",
             "Value": {
                 "id": "552621e3-23ad-42f2-a60e-03081b2a596e",
                 "resourcePath": "sprites\\ItemDiamond\\ItemDiamond.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a1b0b1fd-7943-4388-9906-59aae7c9f911",
+            "Value": {
+                "id": "fe7c01af-86e5-424c-a0a5-47f442f0b642",
+                "resourcePath": "sprites\\ghost_moth\\ghost_moth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a7ec30ca-688f-4ed6-970b-0c2e1a7c0d7a",
+            "Value": {
+                "id": "0f862ac6-8129-4a9d-b1ac-7675373521a3",
+                "resourcePath": "objects\\o_MonsterControler\\o_MonsterControler.yy",
+                "resourceType": "GMObject"
             }
         },
         {
