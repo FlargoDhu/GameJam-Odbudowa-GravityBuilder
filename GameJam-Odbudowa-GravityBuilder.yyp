@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "10c9a9ff-2fd7-4d88-87ae-e3201c78aa06",
+            "Value": {
+                "id": "9ea013a9-0036-402d-8a77-dc5e98cfe763",
+                "resourcePath": "objects\\o_Spikes\\o_Spikes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1101bbf4-b70e-4626-83f4-fe39d10e18a0",
             "Value": {
                 "id": "6a7b4af5-f163-48b1-88c7-57adb6df879f",
@@ -139,6 +147,14 @@
             "Value": {
                 "id": "d78f42f7-4ab3-416c-8de8-c0cddb266064",
                 "resourcePath": "views\\3cd40676-b26b-4d95-9b6e-90ce9789d25f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3cd6515f-57ac-4dab-bc3f-7069a226b03d",
+            "Value": {
+                "id": "465b2717-d04f-498c-943a-91f5865d71d5",
+                "resourcePath": "views\\3cd6515f-57ac-4dab-bc3f-7069a226b03d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -292,6 +308,14 @@
                 "id": "ccde16a4-c270-45ab-abf3-d444db692b9a",
                 "resourcePath": "views\\67d55be0-da58-46ab-948a-6afb2ff352bc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6901f2cb-411b-4b6c-b441-0306b73ca88a",
+            "Value": {
+                "id": "b4ade080-8404-4f5d-a5b4-00716fa1739d",
+                "resourcePath": "objects\\o_DeadlyTrap\\o_DeadlyTrap.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -463,6 +487,14 @@
             }
         },
         {
+            "Key": "bfd23e26-06bb-44a9-833e-a210a99bc32f",
+            "Value": {
+                "id": "89becbf8-9a4d-4cc1-9e45-5542765ba777",
+                "resourcePath": "sprites\\Spikes\\Spikes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0e8e47e-69e6-4cfb-b31b-e008c4fb6cdb",
             "Value": {
                 "id": "8735e7bd-d779-4011-b129-457e8a1d91c7",
@@ -476,6 +508,14 @@
                 "id": "fc76e2d9-7926-4afc-bf7e-06047894b216",
                 "resourcePath": "tilesets\\Sciany\\Sciany.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "c574fa64-53b8-4b8f-8a23-dff81e08fb16",
+            "Value": {
+                "id": "a7db8b4a-6282-4aa2-88ae-3e88f943c39b",
+                "resourcePath": "views\\c574fa64-53b8-4b8f-8a23-dff81e08fb16.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
