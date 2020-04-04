@@ -4,7 +4,6 @@
 
 if(distance_to_object(player_ref)<5){
 	if(!player_stuck){
-		
 		global.DirectionMove = "Disabled G";
 		player_ref.phy_speed_x=0;
 		player_ref.phy_speed_y=0;

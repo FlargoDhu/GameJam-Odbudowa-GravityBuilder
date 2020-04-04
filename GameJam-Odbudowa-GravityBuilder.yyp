@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "e27d0c2d-0219-4ef3-80a8-944f60addae3",
+            "Value": {
+                "id": "516b0f08-49b0-4a98-a543-92781174c7bf",
+                "resourcePath": "objects\\gravityPlatform\\gravityPlatform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e8606ba9-4c69-406b-a7b7-02e7a225296f",
             "Value": {
                 "id": "fb58dc33-2a52-42ea-bb7a-a5865a77473d",
