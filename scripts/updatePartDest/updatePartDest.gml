@@ -8,7 +8,7 @@
 var partDest = argument0;
 var part = argument4;
 
-var toleranceRadius = sprite_width / 2;
+var toleranceRadius = 20;
 var toleranceAngle = 45;
 
 partDest[Part.X] = argument1;
@@ -24,6 +24,7 @@ if (xdif < toleranceRadius && ydif < toleranceRadius && angdif < toleranceAngle)
 	if (!partDest[Part.Fits]) {
 		audio_play_sound(impactPlate_light_000, 50, false);
 		partDest[Part.Fits] = true;
+		partsMatchController.partsMatchedCount += 1;
 	}
 }
 else {
