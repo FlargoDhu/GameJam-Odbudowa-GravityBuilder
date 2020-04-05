@@ -1,0 +1,1 @@
+global.House5_Part5 = createPart(x, y, image_angle, self);

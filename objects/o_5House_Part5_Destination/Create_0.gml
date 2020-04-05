@@ -1,0 +1,1 @@
+global.House5_Part5_Dest = createPartDest(x, y, image_angle, self);
