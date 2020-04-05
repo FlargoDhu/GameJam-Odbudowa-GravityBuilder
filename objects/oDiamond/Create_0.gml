@@ -1,1 +1,1 @@
-global.Diamond = createPart(x, y, image_angle);
+global.Diamond = createPart(x, y, image_angle, self);
