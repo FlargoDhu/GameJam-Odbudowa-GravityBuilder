@@ -1,0 +1,1 @@
+global.House_Part1 = updatePart(global.House_Part1, x, y, image_angle, global.House_Part1_Dest, self);
