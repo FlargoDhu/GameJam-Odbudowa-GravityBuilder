@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "33766879-aaa6-42dd-848d-b970b4257af3",
+            "Value": {
+                "id": "60b3a7f6-5088-4f90-a5ae-83156a997284",
+                "resourcePath": "sprites\\sGravityPlatform\\sGravityPlatform.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36557b9b-eb52-4eef-916c-5f0d3fc21faa",
             "Value": {
                 "id": "6b2a2c20-8f68-4f82-a48d-980bfbefd6d0",
@@ -228,6 +236,14 @@
                 "id": "02fffa49-6038-4849-b2b4-8365f6e48bb1",
                 "resourcePath": "sprites\\HeroGreen\\HeroGreen.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4fc26a52-6554-4498-8a89-40b55b89ee8e",
+            "Value": {
+                "id": "a45a8642-02a8-45b6-b0ac-b6b64fc73a77",
+                "resourcePath": "objects\\levelTextDisplay\\levelTextDisplay.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -615,6 +631,14 @@
             }
         },
         {
+            "Key": "cf4666a5-2813-4cfe-8e14-b4b88600811c",
+            "Value": {
+                "id": "d50050dd-1331-4de3-9d69-8109ccd4d993",
+                "resourcePath": "rooms\\Level1\\Level1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d51e2c05-9ec8-4ff6-82d4-54e4f3e7fa49",
             "Value": {
                 "id": "9c4dec87-6cb3-47cc-bfc7-c1254a12c45c",
@@ -672,12 +696,12 @@
         }
     ],
     "script_order": [
-        "c6ecb6cb-f02d-4cd8-a280-6c3b8d8336e6",
-        "3d97abdd-7b95-4ba6-ae77-3d9f6c465cc7",
         "58b26e9a-8236-452a-a287-6876d361620e",
         "82a4d72a-1a4f-4254-a10d-7030bee8192f",
         "7917a640-484a-47c1-a6ea-bc24443976b8",
         "052fd84c-7c01-4796-a028-694939f418b5",
+        "c6ecb6cb-f02d-4cd8-a280-6c3b8d8336e6",
+        "3d97abdd-7b95-4ba6-ae77-3d9f6c465cc7",
         "a8013e58-15d2-4e43-9528-71d0b03bebd5"
     ],
     "tutorial": ""
