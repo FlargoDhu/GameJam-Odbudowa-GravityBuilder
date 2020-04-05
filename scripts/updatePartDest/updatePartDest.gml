@@ -8,7 +8,7 @@
 var partDest = argument0;
 var part = argument4;
 
-var toleranceRadius = sprite_width / 2;
+var toleranceRadius = 20;
 var toleranceAngle = 45;
 
 partDest[Part.X] = argument1;

@@ -1,13 +1,16 @@
 draw_set_halign(fa_center);
+angle = global.CurrentGravityDirection + 90;
 
 if (room_get_name(room) == "Level1") {
-	draw_text(170, 100, "This kills\n you");
-	draw_text(Jeff.x, Jeff.y-60, "This also\nkills you");
-	draw_text(Sticky.x, Sticky.y+10, "This is sticky");
-	draw_text(Weeeeeee.x+Weeeeeee.sprite_width/2, Weeeeeee.y-30, "This moves");
-	if(FirstItem.phy_linear_damping >= 1000000) draw_text(FirstItem.x, FirstItem.y+20, "Collect this");
-	else if (!global.Diamond[Part.Fits]) draw_text(inst_4ED47088.x, inst_4ED47088.y-90, "Now you have to fit the part\nto its destination\n(right screen)");
-	//draw_text(GravPlat.x, GravPlat.y-50,"This stops when\nyou touch it");
+	draw_text_transformed(170, 160, "This kills\n you", 1, 1, angle);
+	draw_text_transformed(Jeff.x, Jeff.y, "This also\nkills you", 1, 1, angle);
+	draw_text_transformed(Sticky.x, Sticky.y+10, "This is sticky\n you may stuck", 1, 1, angle);
+	draw_text_transformed(Weeeeeee.x+Weeeeeee.sprite_width/2, Weeeeeee.y, "This moves", 1, 1, angle);
+	
+	if(FirstItem.phy_linear_damping >= 1000000) {
+		draw_text_transformed(FirstItem.x+FirstItem.sprite_width/2, FirstItem.y, "Collect this", 1, 1, angle);
+	}
+	else if (!global.House_Part1[Part.Fits]) draw_text_transformed(inst_4ED47088.x, inst_4ED47088.y-90, "Now you have to fit the part\nto its destination\n(right screen)", 1, 1, angle);
 }
 
 draw_set_halign(fa_left);
