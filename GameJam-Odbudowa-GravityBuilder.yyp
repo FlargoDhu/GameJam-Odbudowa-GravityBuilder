@@ -1015,6 +1015,14 @@
             }
         },
         {
+            "Key": "f2890903-8f79-4610-ae8a-1dd3ca2b61de",
+            "Value": {
+                "id": "2e0fec12-b761-474a-8ec6-fc5bee431676",
+                "resourcePath": "objects\\partsMatchController\\partsMatchController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f37c35dd-99be-4105-b2a1-209599dba957",
             "Value": {
                 "id": "961b8658-3d2d-4b42-9800-fe6bdfbb8984",

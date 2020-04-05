@@ -24,6 +24,7 @@ if (xdif < toleranceRadius && ydif < toleranceRadius && angdif < toleranceAngle)
 	if (!partDest[Part.Fits]) {
 		audio_play_sound(impactPlate_light_000, 50, false);
 		partDest[Part.Fits] = true;
+		partsMatchController.partsMatchedCount += 1;
 	}
 }
 else {
