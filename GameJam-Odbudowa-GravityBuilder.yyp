@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0acd0a88-5600-4c6a-9fd9-b1a3157f8136",
+            "Value": {
+                "id": "5daf9540-ae95-4b78-bb2b-5889b5fab3b8",
+                "resourcePath": "sprites\\church3\\church3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0da1d96b-6d9c-4bdb-8c60-4dfaa00eac4a",
             "Value": {
                 "id": "34d39c9d-3f8c-41a3-ab03-fd31bce8f3e8",
@@ -679,6 +687,14 @@
             }
         },
         {
+            "Key": "9c964f42-400a-40fa-9249-984a6055cc4f",
+            "Value": {
+                "id": "67b7f257-9ef7-4c56-ad64-9420826a7358",
+                "resourcePath": "sprites\\church1\\church1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9d93d349-f72b-41e2-8001-9e230e7f2177",
             "Value": {
                 "id": "552621e3-23ad-42f2-a60e-03081b2a596e",
@@ -823,6 +839,14 @@
             }
         },
         {
+            "Key": "c5314e34-8ba7-4787-99c6-d13a3e879898",
+            "Value": {
+                "id": "9b9bdb52-8daa-40ab-b744-2e1c8c43392f",
+                "resourcePath": "sprites\\church2\\church2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c54d135a-3585-4f52-b241-d922ea130a2d",
             "Value": {
                 "id": "fc76e2d9-7926-4afc-bf7e-06047894b216",
@@ -876,6 +900,14 @@
                 "id": "3ec64c5e-895b-43d1-93f6-beaf08b375b7",
                 "resourcePath": "objects\\obj_DynamicParent\\obj_DynamicParent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ca1d6c1b-9beb-4552-8ffa-e4703ba122f9",
+            "Value": {
+                "id": "36120a0e-d26e-48b8-ba1a-6a748ebffdbc",
+                "resourcePath": "sprites\\Church\\Church.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1015,6 +1047,14 @@
             }
         },
         {
+            "Key": "f2637749-db7e-4efe-a8e7-7467096c8da4",
+            "Value": {
+                "id": "335f5dc1-c52b-4033-a83b-5719f4d5bad9",
+                "resourcePath": "sprites\\church4\\church4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f2890903-8f79-4610-ae8a-1dd3ca2b61de",
             "Value": {
                 "id": "2e0fec12-b761-474a-8ec6-fc5bee431676",
@@ -1036,6 +1076,14 @@
                 "id": "55184bc7-7ad4-47e9-8423-4c564a0dbc71",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fbf6690a-2637-4e00-8f57-7917271ddebf",
+            "Value": {
+                "id": "e1a827da-e35c-4e71-8e7f-84ebb933c30a",
+                "resourcePath": "sprites\\church0\\church0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
