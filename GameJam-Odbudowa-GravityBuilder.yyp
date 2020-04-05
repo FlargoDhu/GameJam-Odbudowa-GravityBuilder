@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "212295bc-55c5-4e55-9122-edf723d876d2",
+            "Value": {
+                "id": "09dcd425-1364-4e13-be2e-93740e84d9b2",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2162e219-4abe-4c7d-a78f-5380ef3a605a",
             "Value": {
                 "id": "e7ae3a4b-2e55-47b9-baa3-e884b052c9b3",
@@ -663,6 +671,14 @@
             }
         },
         {
+            "Key": "99b8bcb9-8e27-40c0-9c84-f6b38eb06ab1",
+            "Value": {
+                "id": "bda38d1c-6482-4872-a6eb-317da2677d1e",
+                "resourcePath": "rooms\\Level3\\Level3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9a905705-7887-495f-b3cf-e0ae60bb7bbf",
             "Value": {
                 "id": "0a8886fa-c85d-4764-8092-6fd500ea1136",
@@ -988,6 +1004,14 @@
                 "id": "5fa6765f-423c-4a6f-a8d0-36af3b8b58fa",
                 "resourcePath": "sprites\\HeroGreen1\\HeroGreen1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e265b46f-f210-429f-b422-f720a7f82a48",
+            "Value": {
+                "id": "f0f0f01e-b312-42e7-b354-3eddebd767b3",
+                "resourcePath": "rooms\\Level2\\Level2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
