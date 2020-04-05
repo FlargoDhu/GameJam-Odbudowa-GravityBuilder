@@ -207,11 +207,27 @@
             }
         },
         {
+            "Key": "4df5748b-4f36-44ec-aa1d-0b078d046d5f",
+            "Value": {
+                "id": "4fe760a9-ac37-4eb1-a721-cb43f60ae5a1",
+                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e02b9e5-dba1-4150-8f5f-c8953867db35",
             "Value": {
                 "id": "9b356962-8417-47e1-bb24-2dbcff1e54ce",
                 "resourcePath": "views\\4e02b9e5-dba1-4150-8f5f-c8953867db35.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4ef93d7f-cc14-4620-9c91-3813bca2d23f",
+            "Value": {
+                "id": "02fffa49-6038-4849-b2b4-8365f6e48bb1",
+                "resourcePath": "sprites\\HeroGreen\\HeroGreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -527,14 +543,6 @@
             }
         },
         {
-            "Key": "c0e8e47e-69e6-4cfb-b31b-e008c4fb6cdb",
-            "Value": {
-                "id": "8735e7bd-d779-4011-b129-457e8a1d91c7",
-                "resourcePath": "sprites\\HeroGreen\\HeroGreen.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c54d135a-3585-4f52-b241-d922ea130a2d",
             "Value": {
                 "id": "fc76e2d9-7926-4afc-bf7e-06047894b216",
@@ -620,6 +628,14 @@
                 "id": "6bfd87a4-21a3-4e50-bfa2-81cd0a633049",
                 "resourcePath": "views\\dc733eb3-ebc1-4c61-b14d-8460a3f6bff8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dd099cf2-508b-49f4-9dcb-0e11b5a2351c",
+            "Value": {
+                "id": "5fa6765f-423c-4a6f-a8d0-36af3b8b58fa",
+                "resourcePath": "sprites\\HeroGreen1\\HeroGreen1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

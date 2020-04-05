@@ -25,6 +25,7 @@ if((Right + 45 > Move && Right - 45 < Move)||(45 > Right && Move >= 325+Right)||
 	y_force = _total_force * -sin(_radian);
 
 	physics_apply_force(x,y,x_force,y_force)
+	phy_rotation += 2;
 }
 
 if((Left + 45 > Move) && (Left - 45 < Move)||(45 > Left && Move >= 325+Left)||(325 < Left && Move <= Left-325)){
@@ -35,4 +36,5 @@ if((Left + 45 > Move) && (Left - 45 < Move)||(45 > Left && Move >= 325+Left)||(3
 	y_force = _total_force * -sin(_radian);
 
 	physics_apply_force(x,y,x_force,y_force)
+	phy_rotation += -2;
 }
