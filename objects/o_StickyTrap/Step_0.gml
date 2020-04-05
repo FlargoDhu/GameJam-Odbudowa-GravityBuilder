@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-if(distance_to_object(player_ref)<5){
+if(distance_to_object(player_ref)<4){
 	if(!player_stuck){
 		global.DirectionMove = "Disabled G";
 		player_ref.phy_speed_x=0;
