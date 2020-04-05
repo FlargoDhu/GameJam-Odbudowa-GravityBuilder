@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "26b67d31-7692-4a0d-b8ef-cd96e902bfe6",
+            "Value": {
+                "id": "c31fc694-9059-4a72-be04-61ef9fe1db29",
+                "resourcePath": "views\\26b67d31-7692-4a0d-b8ef-cd96e902bfe6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "283be22c-9e1b-4ff3-987c-2e40e42ba935",
             "Value": {
                 "id": "bca54984-21a1-41c6-b3a8-6d32c2335253",
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "a2236d91-da88-47ff-bc8b-e36a2a1e052d",
+            "Value": {
+                "id": "c09dddef-426e-4a9e-90e0-14ea04da3c8a",
+                "resourcePath": "views\\a2236d91-da88-47ff-bc8b-e36a2a1e052d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a7ec30ca-688f-4ed6-970b-0c2e1a7c0d7a",
             "Value": {
                 "id": "0f862ac6-8129-4a9d-b1ac-7675373521a3",
@@ -711,6 +727,14 @@
             }
         },
         {
+            "Key": "e4964db7-f207-4bb9-ab10-adc40f3aaadd",
+            "Value": {
+                "id": "ac71c0f0-b59c-481a-b719-060faf2c49f1",
+                "resourcePath": "views\\e4964db7-f207-4bb9-ab10-adc40f3aaadd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e8606ba9-4c69-406b-a7b7-02e7a225296f",
             "Value": {
                 "id": "fb58dc33-2a52-42ea-bb7a-a5865a77473d",
@@ -723,6 +747,14 @@
             "Value": {
                 "id": "a39dcaef-3317-4570-8993-5dde602ecae4",
                 "resourcePath": "views\\eda9f85f-0f0f-457c-96ff-306ec5f6ed4f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef4d91f3-10e9-40b0-94fc-603c838b84a6",
+            "Value": {
+                "id": "35d49caf-e347-454c-870f-05807281bd5f",
+                "resourcePath": "views\\ef4d91f3-10e9-40b0-94fc-603c838b84a6.yy",
                 "resourceType": "GMFolder"
             }
         },
