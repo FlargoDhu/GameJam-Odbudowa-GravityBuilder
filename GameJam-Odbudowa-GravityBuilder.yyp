@@ -559,6 +559,22 @@
             }
         },
         {
+            "Key": "b4a732d5-8ef5-409f-b73f-b3ee9a1cc7f3",
+            "Value": {
+                "id": "ee5a3dd3-48bb-4ca0-9140-ad7bd4b6da00",
+                "resourcePath": "objects\\o_3House_Part2_Destination\\o_3House_Part2_Destination.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd10ce96-d746-458a-9c0a-0dae57f04822",
+            "Value": {
+                "id": "c855cf89-1028-434c-b31a-bcd20d430371",
+                "resourcePath": "objects\\o_3House_Part3\\o_3House_Part3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bdb4c9b9-1ec9-4349-bbe2-882a51adb5f7",
             "Value": {
                 "id": "fcf190db-ea81-49ae-b0f9-3ee7c616984a",
@@ -580,6 +596,14 @@
                 "id": "89becbf8-9a4d-4cc1-9e45-5542765ba777",
                 "resourcePath": "sprites\\Spikes\\Spikes.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4a38de6-8729-45c2-92ca-e208aa12498a",
+            "Value": {
+                "id": "08bfd3df-da09-40e7-aeba-db7fd761c255",
+                "resourcePath": "objects\\o_3House_Part2\\o_3House_Part2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -676,6 +700,14 @@
                 "id": "6bfd87a4-21a3-4e50-bfa2-81cd0a633049",
                 "resourcePath": "views\\dc733eb3-ebc1-4c61-b14d-8460a3f6bff8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dcc48a50-4340-461b-9299-d73238654c07",
+            "Value": {
+                "id": "7ea3219b-cff3-4ab3-be50-2a25b35b60f1",
+                "resourcePath": "objects\\o_3House_Part3_Destination\\o_3House_Part3_Destination.yy",
+                "resourceType": "GMObject"
             }
         },
         {
