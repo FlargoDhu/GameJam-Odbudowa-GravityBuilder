@@ -10,6 +10,6 @@ else if (room_get_name(room) == "Level2") {
 }
 else if (room_get_name(room) == "Level3") {
 	if (partsMatchedCount >= 5) {
-		room_goto(room0);
+		room_goto(EndGame);
 	}
 }
