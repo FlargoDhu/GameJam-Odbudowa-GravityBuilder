@@ -1,1 +1,1 @@
-global.Key = createPart(x, y, image_angle);
+global.Key = createPart(x, y, image_angle, self);
