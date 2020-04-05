@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "283be22c-9e1b-4ff3-987c-2e40e42ba935",
+            "Value": {
+                "id": "bca54984-21a1-41c6-b3a8-6d32c2335253",
+                "resourcePath": "sprites\\House_3part_Part1\\House_3part_Part1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2f7df800-6e0b-4385-ae25-7a5a8861e7b2",
             "Value": {
                 "id": "04650695-8e9a-4a6d-8e9d-0a30eef439d3",
@@ -148,6 +156,14 @@
                 "id": "99f60c10-9054-47b0-a6e0-346d9310f604",
                 "resourcePath": "views\\3b997521-72e5-4c1e-8084-d722b34bbbb1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c265e5d-305a-493d-89a1-0856d61b1287",
+            "Value": {
+                "id": "bd1a891e-864f-48a3-9ee2-27cb7932e607",
+                "resourcePath": "sprites\\House_3part_Part3\\House_3part_Part3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +279,14 @@
             }
         },
         {
+            "Key": "58015334-c7bb-4d53-9281-2d09a4763592",
+            "Value": {
+                "id": "b58153c7-7ae1-46a3-b880-fdf06c72e0d8",
+                "resourcePath": "sprites\\House_3part_Part2\\House_3part_Part2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "58b26e9a-8236-452a-a287-6876d361620e",
             "Value": {
                 "id": "0a35d5f0-0caf-423d-bef2-581ea01b4e24",
@@ -316,6 +340,14 @@
                 "id": "af97996f-333d-4230-a293-7dd15e706c88",
                 "resourcePath": "objects\\obj_StaticParent\\obj_StaticParent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6499d6fd-2e5f-42d9-ac39-fc79cdb1156e",
+            "Value": {
+                "id": "bbcc6e7c-485e-4d81-9e27-c3c5bad16d47",
+                "resourcePath": "views\\6499d6fd-2e5f-42d9-ac39-fc79cdb1156e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -404,6 +436,14 @@
                 "id": "b67b44e8-daeb-44da-bacc-683f9dc14a21",
                 "resourcePath": "scripts\\createPart\\createPart.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "83a7572e-5851-44df-aa80-53f56c23edbe",
+            "Value": {
+                "id": "53047832-a5ff-4e70-85b5-b6466cb91063",
+                "resourcePath": "views\\83a7572e-5851-44df-aa80-53f56c23edbe.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -623,6 +663,14 @@
             }
         },
         {
+            "Key": "d571672c-d3fb-4fb9-ad32-404af0d24ac4",
+            "Value": {
+                "id": "c74498d6-752b-45a1-aed9-fde75c6f337a",
+                "resourcePath": "views\\d571672c-d3fb-4fb9-ad32-404af0d24ac4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dc733eb3-ebc1-4c61-b14d-8460a3f6bff8",
             "Value": {
                 "id": "6bfd87a4-21a3-4e50-bfa2-81cd0a633049",
@@ -647,6 +695,14 @@
             }
         },
         {
+            "Key": "e2990020-7751-47a8-9a5c-e4daeb5be746",
+            "Value": {
+                "id": "6cfd293c-0268-4270-acd2-311b05093ec8",
+                "resourcePath": "objects\\o_3House_Part1_Destination\\o_3House_Part1_Destination.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e8606ba9-4c69-406b-a7b7-02e7a225296f",
             "Value": {
                 "id": "fb58dc33-2a52-42ea-bb7a-a5865a77473d",
@@ -660,6 +716,14 @@
                 "id": "a39dcaef-3317-4570-8993-5dde602ecae4",
                 "resourcePath": "views\\eda9f85f-0f0f-457c-96ff-306ec5f6ed4f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f37c35dd-99be-4105-b2a1-209599dba957",
+            "Value": {
+                "id": "8540aa69-f44f-4abe-97ff-057028b99e5b",
+                "resourcePath": "objects\\o_3House_Part1\\o_3House_Part1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
