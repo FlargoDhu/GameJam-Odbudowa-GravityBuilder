@@ -4,7 +4,56 @@
     "mvc": "1.11",
     "name": "Sciany",
     "auto_tile_sets": [
-        
+        {
+            "id": "bca336e7-23b1-4e21-9c58-40d0f4445933",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_1",
+            "tiles": [
+                1,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "267484cc-b584-4ee6-8976-0fcd37fa33a4",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_2",
+            "tiles": [
+                1,
+                0,
+                2,
+                0,
+                0,
+                2,
+                4,
+                0,
+                0,
+                4,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
     ],
     "macroPageTiles": {
         "SerialiseData": null,

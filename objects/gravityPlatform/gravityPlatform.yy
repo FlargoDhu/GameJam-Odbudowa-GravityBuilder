@@ -70,7 +70,22 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "e7f61567-0ec1-49a8-8ff4-89faef5b5d66",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "player_in_range_check ",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "33766879-aaa6-42dd-848d-b970b4257af3",
     "visible": true
