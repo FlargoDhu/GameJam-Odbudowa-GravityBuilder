@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "4a248c57-e804-4151-b3aa-ccad2ed52838",
+            "Value": {
+                "id": "d01f75c1-27be-4834-bbc0-2702d83faa85",
+                "resourcePath": "sounds\\Beat_Thee\\Beat_Thee.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4df5748b-4f36-44ec-aa1d-0b078d046d5f",
             "Value": {
                 "id": "4fe760a9-ac37-4eb1-a721-cb43f60ae5a1",
