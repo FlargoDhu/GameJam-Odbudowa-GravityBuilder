@@ -28,13 +28,13 @@ else if (room_get_name(room) == "EndGame") {
 		draw_text(browser_width/2, 700, "Press escape to go back");
 }
 else if (room_get_name(room) == "Credits") {
-	draw_set_font(font2);
-	
+	draw_set_font(fontCredits);
 	for (var i = 0; i < array_length_1d(creditsText); i++) {
-		draw_text(floor(browser_width/2), 100 + (i * 90), string(creditsText[i]));
+		draw_text(floor(browser_width/2), 50 + (i * 90), string(creditsText[i]));
 	}
 	draw_set_font(-1);
 	draw_text(browser_width/2, 700, "Press escape to go back");
+	draw_text(browser_width-50, 700, "April 2020");
 }
 
 draw_set_halign(fa_left);
