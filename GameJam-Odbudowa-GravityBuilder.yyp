@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "2c383e88-5577-4503-98e3-babcbeb7b1c2",
+            "Value": {
+                "id": "b53725d1-3408-41ac-a0f1-c49e8d0dcccc",
+                "resourcePath": "fonts\\font2\\font2.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2d7699a3-0b41-434b-8258-2e5faf8c2caf",
             "Value": {
                 "id": "2d3587c5-1db2-4d11-a755-a19f54150430",
@@ -295,6 +303,14 @@
             }
         },
         {
+            "Key": "3e9ebc73-cc8b-43f3-b728-d235a67ce87c",
+            "Value": {
+                "id": "2adfa6eb-e295-435d-a4b9-b1695aa26240",
+                "resourcePath": "rooms\\MainMenu\\MainMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4041b600-f8ef-4f90-b179-4a2e7f2efbea",
             "Value": {
                 "id": "dd6c761e-c51c-4b0a-a39a-6db7725d9575",
@@ -340,6 +356,14 @@
                 "id": "79d9126a-9cf8-4c3a-a349-fde81d15adf8",
                 "resourcePath": "objects\\oCamera\\oCamera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "491302e8-99a6-441a-8672-31d7ae16ed12",
+            "Value": {
+                "id": "6e814db9-3915-402f-bfcc-17e66e9ff710",
+                "resourcePath": "rooms\\Credits\\Credits.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -719,6 +743,14 @@
             }
         },
         {
+            "Key": "97da1ff1-6a76-4098-99ef-d0203e0d82d1",
+            "Value": {
+                "id": "bec30176-18c1-4ce4-ad6e-1714a3578581",
+                "resourcePath": "sounds\\impactMetal_heavy_000\\impactMetal_heavy_000.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "99b8bcb9-8e27-40c0-9c84-f6b38eb06ab1",
             "Value": {
                 "id": "bda38d1c-6482-4872-a6eb-317da2677d1e",
@@ -1031,6 +1063,14 @@
             }
         },
         {
+            "Key": "dbcaa9bd-da01-481d-a379-4232f5c07e4e",
+            "Value": {
+                "id": "fcbf67ef-5e19-41b7-9371-fecff6b80718",
+                "resourcePath": "objects\\o_MainMenu\\o_MainMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dc733eb3-ebc1-4c61-b14d-8460a3f6bff8",
             "Value": {
                 "id": "6bfd87a4-21a3-4e50-bfa2-81cd0a633049",
@@ -1164,6 +1204,14 @@
                 "id": "55184bc7-7ad4-47e9-8423-4c564a0dbc71",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f58306e2-83b0-4fdc-9e55-052e2fa2cbbc",
+            "Value": {
+                "id": "a45b8375-181c-4296-9d7e-b0d456744a58",
+                "resourcePath": "sounds\\impactPlate_heavy_000\\impactPlate_heavy_000.yy",
+                "resourceType": "GMSound"
             }
         },
         {
