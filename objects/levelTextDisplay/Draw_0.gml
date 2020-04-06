@@ -1,6 +1,6 @@
 draw_set_halign(fa_center);
 
-if (!(room_get_name(room) == "EndGame")) {
+if (!(room_get_name(room) == "EndGame" || room_get_name(room) == "Credits")) {
 	angle = global.CurrentGravityDirection + 90;
 
 	if (room_get_name(room) == "Level1") {
@@ -21,10 +21,20 @@ if (!(room_get_name(room) == "EndGame")) {
 
 	}*/
 }
-else {
+else if (room_get_name(room) == "EndGame") {
 		draw_set_font(font0);
 		draw_text(browser_width/2, 2*browser_height/5, "The end\nThanks for playing :)");
 		draw_set_font(-1);
+		draw_text(browser_width/2, 700, "Press escape to go back");
+}
+else if (room_get_name(room) == "Credits") {
+	draw_set_font(font2);
+	
+	for (var i = 0; i < array_length_1d(creditsText); i++) {
+		draw_text(floor(browser_width/2), 100 + (i * 90), string(creditsText[i]));
+	}
+	draw_set_font(-1);
+	draw_text(browser_width/2, 700, "Press escape to go back");
 }
 
 draw_set_halign(fa_left);
